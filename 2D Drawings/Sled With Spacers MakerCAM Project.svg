@@ -1,0 +1,45 @@
+<?xml version='1.0'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='18.296904095926926in' height='15.570571632435712in' viewBox='0 0 18.296904095926926 15.570571632435712'>
+<metadata>
+<cutobject type="profile" unit="imperial" name="Cut%20Alignment%20Holes" safetyheight="0.15" stocksurface="0" targetdepth="-0.8" stepover="NaN" stepdown="0.12" feedrate="20" plungerate="30" tooldiameter="0.25" roughingclearance="NaN" outside="false" direction="1" >
+<path>path6</path>
+<path>path7</path>
+<path>path8</path>
+</cutobject>
+<cutobject type="drill" unit="imperial" name="Drill%20Holes" safetyheight="0.15" stocksurface="0" targetdepth="-0.8" stepover="NaN" stepdown="0.8" feedrate="NaN" plungerate="30" tooldiameter="0.25" roughingclearance="NaN" outside="true" direction="1" center="true" spacing="0.5" >
+<path>path9</path>
+<path>path10</path>
+<path>path11</path>
+<path>path12</path>
+<path>path13</path>
+</cutobject>
+<cutobject type="profile" unit="imperial" name="Countersinks" safetyheight="0.15" stocksurface="0" targetdepth="-0.25" stepover="NaN" stepdown="0.1" feedrate="20" plungerate="30" tooldiameter="0.25" roughingclearance="NaN" outside="false" direction="1" >
+<path>path2</path>
+<path>path3</path>
+<path>path4</path>
+<path>path5</path>
+</cutobject>
+<cutobject type="profile" unit="imperial" name="Center%20Hole" safetyheight="0.15" stocksurface="0" targetdepth="-0.8" stepover="NaN" stepdown="0.1" feedrate="60" plungerate="30" tooldiameter="0.25" roughingclearance="NaN" outside="false" direction="1" >
+<path>path1</path>
+</cutobject>
+<cutobject type="profile" unit="imperial" name="Outside%20Cut" safetyheight="0.15" stocksurface="0" targetdepth="-0.8" stepover="NaN" stepdown="0.12" feedrate="60" plungerate="30" tooldiameter="0.25" roughingclearance="NaN" outside="true" direction="1" >
+<path>path0</path>
+</cutobject>
+</metadata>
+
+<path id='path0' stroke='black' fill='none' stroke-width='0.02' d='M18.296904095926926 6.200787406249999 A9 -9 0 1 0 0.29690409592692646 6.200787406249999 A9 -9 0 1 0 18.296904095926926 6.200787406249999 Z'/>
+<path id='path1' stroke='black' fill='none' stroke-width='0.02' d='M10.796904095926925 6.200787406249999 A1.5 -1.5 0 1 0 7.796904095926928 6.200787406249999 A1.5 -1.5 0 1 0 10.796904095926925 6.200787406249999 Z'/>
+<path id='path2' stroke='black' fill='none' stroke-width='0.02' d='M5.756091502176924 13.457261958333333 A0.375 -0.375 0 1 0 5.006091502176924 13.457261958333333 A0.375 -0.375 0 1 0 5.756091502176924 13.457261958333333 Z'/>
+<path id='path3' stroke='black' fill='none' stroke-width='0.02' d='M2.415429543843592 10.1166 A0.375 -0.375 0 1 0 1.665429543843592 10.1166 A0.375 -0.375 0 1 0 2.415429543843592 10.1166 Z'/>
+<path id='path4' stroke='black' fill='none' stroke-width='0.02' d='M13.587716689676926 13.457261958333333 A0.375 -0.375 0 1 0 12.837716689676926 13.457261958333333 A0.375 -0.375 0 1 0 13.587716689676926 13.457261958333333 Z'/>
+<path id='path5' stroke='black' fill='none' stroke-width='0.02' d='M16.92837864801026 10.1166 A0.375 -0.375 0 1 0 16.17837864801026 10.1166 A0.375 -0.375 0 1 0 16.92837864801026 10.1166 Z'/>
+<path id='path6' stroke='black' fill='none' stroke-width='0.02' d='M3.7890694084269274 8.619271333333334 A0.2559055156250008 -0.2559055156250008 0 1 0 3.277258377176926 8.619271333333334 A0.2559055156250008 -0.2559055156250008 0 1 0 3.7890694084269274 8.619271333333334 Z'/>
+<path id='path7' stroke='black' fill='none' stroke-width='0.02' d='M9.552809606343592 0 A0.2559055104166674 -0.2559055104166674 0 1 0 9.040998585510257 0 A0.2559055104166674 -0.2559055104166674 0 1 0 9.552809606343592 0 Z'/>
+<path id='path8' stroke='black' fill='none' stroke-width='0.02' d='M15.316549804260257 8.619271333333334 A0.25590551041666665 -0.25590551041666665 0 1 0 14.804738783426929 8.619271333333334 A0.25590551041666665 -0.25590551041666665 0 1 0 15.316549804260257 8.619271333333334 Z'/>
+<path id='path9' stroke='black' fill='none' stroke-width='0.02' d='M9.434699366760261 6.200787406249999 A0.13779527604166653 -0.13779527604166653 0 1 0 9.159108814676928 6.200787406249999 A0.13779527604166653 -0.13779527604166653 0 1 0 9.434699366760261 6.200787406249999 Z'/>
+<path id='path10' stroke='black' fill='none' stroke-width='0.02' d='M2.1704295438435928 10.1166 A0.13000000000000078 -0.13000000000000078 0 1 0 1.9104295438435912 10.1166 A0.13000000000000078 -0.13000000000000078 0 1 0 2.1704295438435928 10.1166 Z'/>
+<path id='path11' stroke='black' fill='none' stroke-width='0.02' d='M16.683378648010255 10.1166 A0.13 -0.13 0 1 0 16.423378648010257 10.1166 A0.13 -0.13 0 1 0 16.683378648010255 10.1166 Z'/>
+<path id='path12' stroke='black' fill='none' stroke-width='0.02' d='M13.342716689676925 13.457261958333333 A0.13000000000000078 -0.13000000000000078 0 1 0 13.082716689676923 13.457261958333333 A0.13000000000000078 -0.13000000000000078 0 1 0 13.342716689676925 13.457261958333333 Z'/>
+<path id='path13' stroke='black' fill='none' stroke-width='0.02' d='M5.511091502176926 13.457261958333333 A0.13 -0.13 0 1 0 5.251091502176928 13.457261958333333 A0.13 -0.13 0 1 0 5.511091502176926 13.457261958333333 Z'/>
+</svg>

@@ -8,6 +8,8 @@ The original credit for this idea goes to [Stephen_Slagle](https://forums.maslow
 
 The CAD file for this project can be found here: [OnShape](https://cad.onshape.com/documents/c48fcdcfe5cd17718dd1cf44/w/04c986bcebabe774aed1c2db/e/d430290e75e91849b75dd8de)
 
+The download includes DXF and SVG files for the design, the MakerCAM project file if you just need to tweak the router bit size or such, and ready to run Gcode for a 1/4 inch router bit. Note that tabs are not saved from MakerCAM so you will need to re-add the tabs.
+
 A photo of the back side (ignore the extra cuts, this was made from the backerboard of my original machine):
 
 ![Maslow sled with center alignment jig](https://raw.githubusercontent.com/MaslowCommunityGarden/Sled-With-Center-Alignment-Jig/master/sledwithalignmentguidebackside.jpg)
